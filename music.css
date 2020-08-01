@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+}
+
+.musicheading{
+    background-color: #AFE8F8;
+    padding: 2%;
+    color:rgb(135, 130, 130);
+    font-size: 33px;
+    margin-bottom: 0px;
+}
+
+.video{
+    background-color:#FFD9B1;
+    padding: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 0px;
+    padding-left: 6%;
+    padding-top: 1.2%;
+    padding-bottom: 2%;
+}
+
+.vid{
+    padding: 2%;
+}
+
+.nmusic {
+    padding:2%;
+}

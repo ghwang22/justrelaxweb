@@ -1,0 +1,38 @@
+body{
+    margin:0px;
+}
+.begin{
+    background-color:#FFD9B1;
+}
+
+.funhobbiestotry{
+    background-color: #AFE8F8;
+    padding: 2%;
+    color:rgb(135, 130, 130);
+    border-color: #FFD9B1;
+    font-size: 33px;
+}
+
+.image{
+    background-color:#FFD9B1;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0px;
+}
+
+.img1{
+    width:20%;
+    margin:2%;
+
+}
+
+.list{
+    background-color:#FFD9B1;
+    margin:0px;
+    font-family: optima;
+    color:rgb(135, 130, 130);
+    padding-left:8%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}

@@ -1,0 +1,31 @@
+.heading {
+    background-color: #AFE8F8;
+    color:rgba(39, 37, 37, 0.63);
+    font-family: optima;
+    overflow: hidden;
+    padding-left: 1%;
+    margin: 0px;
+  }
+   
+  
+  .heading a {
+    font-size:24px;
+    color:rgb(135, 130, 130);
+    text-align: center;
+    padding: 10px 13px;
+    text-decoration: none;
+  }
+  
+  .heading a:hover{
+    background-color: #FFD9B1;
+    transition: all 1s;
+  }
+  
+  .heading a.active {
+    background-color: #FFD9B1;
+  }
+  
+  #justrelax { 
+    text-align: left;
+    font-size: 40px;
+  }

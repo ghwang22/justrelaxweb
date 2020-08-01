@@ -1,0 +1,54 @@
+body {
+    margin:0px;
+}
+
+
+.journal{
+    background-color: #AFE8F8;
+    color:rgb(135, 130, 130);
+    padding: 1%;
+}
+
+.prompts{
+    margin-top: 20px;
+    padding: 1%;
+    background-color: #FFD9B1;
+}
+
+.someprompts{
+    padding-left: 2%;
+    padding-bottom: 0px;
+    font-size: 33px;
+    flex-wrap: wrap;
+    color: rgb(125, 122, 122);
+}
+
+.lprompts{
+    font-size: 20px;
+    padding-left: 5%;
+    color: rgb(135, 130, 130);
+}
+
+li{
+    padding: 0.5%;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+}
+
+.image{
+    background-color:#FFD9B1;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.img1{
+    width:28%;
+    margin:1%;
+    background-color: white;
+    padding:1%;
+}
